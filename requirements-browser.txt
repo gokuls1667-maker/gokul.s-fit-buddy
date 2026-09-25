@@ -1,0 +1,3 @@
+# Optional; the application and pytest suite do not need a browser installation.
+-r requirements-dev.txt
+playwright==1.51.0
